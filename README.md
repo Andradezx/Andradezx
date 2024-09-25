@@ -14,7 +14,7 @@
 
 ## 🚀 Projetos em Destaque
 
-1. **[Repositório de Estudos em JavaScript, Python, HTML, CSS, Banco de dados   ](link-para-o-repositorio)**
+1. **[Repositório de Estudos em JavaScript, Python, HTML, CSS, Banco de dados   ](https://github.com/Andradezx/Learning-Programming.git)**
    - Um compilado de exercícios e exemplos que estou desenvolvendo para praticar a lógica de programação.
 
 2. **[Site Pessoal em Desenvolvimento](link-para-o-site)**
