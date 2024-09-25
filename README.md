@@ -28,7 +28,7 @@ Estou sempre aberto a sugestões e dicas! Se você tem algo a compartilhar, sint
 
 Vamos nos conectar!
 
-- [LinkedIn]((https://www.linkedin.com/in/vitor-hugo-9778092a2/))
+- [LinkedIn](https://www.linkedin.com/in/vitor-hugo-9778092a2/)
 - [E-mail](vitorhugoandrade397@gmail.com)
 
 ---
