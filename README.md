@@ -1,4 +1,4 @@
-# 🌟 Meu Aprendizado em Lógica de Programação
+# 🌟 Meu Aprendizado em  Programação
 
 👋 Olá! Bem-vindo ao meu repositório. Aqui, compartilho minha jornada no mundo da programação, explorando várias tecnologias e conceitos fundamentais.
 
